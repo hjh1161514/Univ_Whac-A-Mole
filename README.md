@@ -18,19 +18,19 @@
 - 첫 화면 
 <br>
 <img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/61824695/97989017-41b3f980-1e21-11eb-8e08-fac080d01356.jpg"
-width="400px" />
+width="300px" />
 <br>
 
 - 점수를 얻는 경우
 <br>
 <img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/61824695/97989147-732cc500-1e21-11eb-808c-9c76ed48a6f7.jpg"
-width="400px" />
+width="300px" />
 <br>
 
 - 기회를 잃는 경우
 <br>
 <img style="border: 1px solid black !important; border-radius:20px; " src="https://user-images.githubusercontent.com/61824695/97989158-77f17900-1e21-11eb-85cd-cadabd8bf622.jpg"
-width="400px" />
+width="300px" />
 <br>
 
 ## 느낀점
